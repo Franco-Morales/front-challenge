@@ -1,0 +1,7 @@
+.wraper-card {
+    width: 100%;
+}
+.wraper-card > .card {
+    width: 40%;
+    margin: 10% 30%;
+}
